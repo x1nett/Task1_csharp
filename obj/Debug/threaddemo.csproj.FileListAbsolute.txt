@@ -1,0 +1,14 @@
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\bin\Debug\threaddemo.exe.config
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\bin\Debug\threaddemo.exe
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\bin\Debug\threaddemo.pdb
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\obj\Debug\threaddemo.csproj.AssemblyReference.cache
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\obj\Debug\threaddemo.csproj.CoreCompileInputs.cache
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\obj\Debug\threaddemo.exe
+C:\Users\Влад Кузьменко\Desktop\3 курс\Паралельне програмування\1 лаба\C#\threaddemo\obj\Debug\threaddemo.pdb
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\bin\Debug\threaddemo.exe.config
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\bin\Debug\threaddemo.exe
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\bin\Debug\threaddemo.pdb
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\obj\Debug\threaddemo.csproj.AssemblyReference.cache
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\obj\Debug\threaddemo.csproj.CoreCompileInputs.cache
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\obj\Debug\threaddemo.exe
+C:\Users\Влад Кузьменко\Desktop\3 курс\parallelprog\1 лаба\C#\threaddemo\obj\Debug\threaddemo.pdb
